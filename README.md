@@ -2,5 +2,5 @@
 
 | First Name | Last Name | UCID |
 |----------|----------|----------|
-| Cell 1   | Cell 2   | Cell 3   |
-| Cell 4   | Cell 5   | Cell 6   |
+| Wassim   | Belghache   | 30192380   |
+| Cesar   | Garcia  | 30180967   |
