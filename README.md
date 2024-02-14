@@ -1,5 +1,6 @@
 # ENSF381_Lab5
 
-| first name | Last Name |   UCID   |
--------------------------------------
-| Wassim     | Belghache | 30192380 |
+| First Name | Last Name | UCID |
+|----------|----------|----------|
+| Cell 1   | Cell 2   | Cell 3   |
+| Cell 4   | Cell 5   | Cell 6   |
